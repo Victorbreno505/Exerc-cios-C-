@@ -1,0 +1,14 @@
+C:\Projetos\Exercícios\Sequência Básica\bin\Debug\net8.0\Sequência Básica.exe
+C:\Projetos\Exercícios\Sequência Básica\bin\Debug\net8.0\Sequência Básica.deps.json
+C:\Projetos\Exercícios\Sequência Básica\bin\Debug\net8.0\Sequência Básica.runtimeconfig.json
+C:\Projetos\Exercícios\Sequência Básica\bin\Debug\net8.0\Sequência Básica.dll
+C:\Projetos\Exercícios\Sequência Básica\bin\Debug\net8.0\Sequência Básica.pdb
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.AssemblyInfoInputs.cache
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.AssemblyInfo.cs
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.csproj.CoreCompileInputs.cache
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.dll
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\refint\Sequência Básica.dll
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.pdb
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.genruntimeconfig.cache
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\ref\Sequência Básica.dll
