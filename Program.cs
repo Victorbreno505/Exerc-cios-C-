@@ -1,9 +1,127 @@
-﻿
+﻿/*
+//Exercício 16 [Desafio]
+
+Console.WriteLine("========================================");
+Console.WriteLine("              Dias Perdidos             ");
+Console.WriteLine("========================================");
+
+Console.Write("Quantos cigarros são consumidos por dia: ");
+int cigarro = int.Parse(Console.ReadLine());
+Console.Write("Há Quantos anos você fuma?: ");
+int anos = int.Parse(Console.ReadLine());
+
+int quantidade = anos * 365 * cigarro;
+int minutos = quantidade * 10;
+int diasPerdidos = minutos / 1440;
+Console.WriteLine("========================================");
+Console.WriteLine($"O total de dias perdidos de vida {diasPerdidos:F2}\n"
+                    + $"Cigarros Fumados = {quantidade}\n"
+                    + $"Anos = {anos}");
+Console.WriteLine("========================================");
+                
+//Exercício 15
+Console.WriteLine("========================================")
+console.WriteLine("             Calculo Salário            ")
+Console.WriteLine("========================================")
+
+Console.Write("Total de dias trabalhados: ");
+int dias = int.Parse(Console.ReadLine());
+
+int horasDia = 8;
+
+double total = dias * horasDia * 25;
+
+Console.WriteLine($"O salário recebido em um total de {dias} dias trabalhados é de :{total}");
 
 
+//Exercicio 14
+
+Console.WriteLine("===================================");
+Console.WriteLine("         Locadora AutoBanh         ");
+Console.WriteLine("===================================");
+
+Console.Write("Qual a Quantidade de Quilometros(Km) percorridos: ");
+double km = double.Parse(Console.ReadLine());
+Console.Write("Qual a quantidade de Dias que o veículo foi alugado: ");
+int dias = int.Parse(Console.ReadLine());
+
+double valorDia = 90;
+double valorKm = 0.20;
+
+double valorFinal = (dias * valorDia) + km * valorKm;
+
+Console.WriteLine("===================================");
+Console.WriteLine($"O valor final do aluguel do veiculo é: \n"
+                + $"Quilometros  \t  =\t {km} Km\n" 
+                + $"Dias Alugados \t  =\t {dias} Dias\n"
+                + $"Valor Fixo Diária = \t {valorDia} R$");
+
+Console.WriteLine("===================================");
+Console.WriteLine($"Valor final = {valorFinal}.");
+Console.WriteLine("===================================");
+
+//Exercicio 13
+
+Console.WriteLine("===============================================");
+Console.WriteLine("                 Aumento Salário               ");
+Console.WriteLine("===============================================");
+Console.Write("Qual o Salário do Funcionário: ");
+double salario = double.Parse(Console.ReadLine());
+
+double porcentagem = (salario / 100) * 15;
+double salarioAtualizado = salario + porcentagem;
+
+Console.WriteLine($"O salário atualizado ddo Funcionário foi de {salario} para {salarioAtualizado} totalizando um aumento de {porcentagem} (15%).");
+Console.WriteLine("===============================================");
+
+//Exercício 12
+
+Console.WriteLine("======================================");
+Console.WriteLine("           Preço Promocional          ");
+Console.WriteLine("======================================");
+
+Console.Write("Qual o preço do Produto: ");
+double preço = double.Parse(Console.ReadLine());
+
+double valorP = (preço / 100) * 5;
+
+Console.WriteLine($"O valor do Produto com o Desconto aplicado é de: {valorP}" + " R$");
+
+//Exercício 11
+
+    Console.Write("Digite o valor de A: ");
+double valorA = double.Parse(Console.ReadLine());
+    Console.Write("Digite o valor de B: ");
+double valorB = double.Parse(Console.ReadLine());
+    Console.Write("Digite o valor de C: ");
+double valorC = double.Parse(Console.ReadLine());
+// Math.Pow = elevado
+double delta = Math.Pow(valorB, 2) - 4 * valorA * valorC;
+
+Console.WriteLine($"O valor de Delta Δ é {delta}");
 
 
-/*
+//Exercício 10
+
+Console.WriteLine("========================================");
+Console.WriteLine("                Tinta/Metro²            ");
+Console.WriteLine("========================================");
+
+Console.Write("Digite a Largura da parede: ");
+int largura = int.Parse(Console.ReadLine());
+
+Console.Write("Digite a Altura da parede: ");
+int altura = int.Parse(Console.ReadLine());
+//formula - area = largura * altura / N
+
+//Metros Quadrados por Litros de Tinta
+int tinta = 2;
+
+int area = (largura * altura) / tinta;
+Console.WriteLine("========================================");
+Console.WriteLine($"A Quantidade de Tinta em litros para o serviço é de :{area}");
+Console.WriteLine("========================================");
+
 //Exercício 9
 
 Console.WriteLine("======================================");
