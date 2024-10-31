@@ -12,3 +12,4 @@ C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\refint\Sequência B�
 C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.pdb
 C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.genruntimeconfig.cache
 C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\ref\Sequência Básica.dll
+C:\Projetos\Exercícios\Sequência Básica\obj\Debug\net8.0\Sequência Básica.sourcelink.json
